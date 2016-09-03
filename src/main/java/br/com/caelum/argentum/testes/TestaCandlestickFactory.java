@@ -30,6 +30,8 @@ public class TestaCandlestickFactory {
 		
 		//System.out.println(candle.toString());
 		
+		
+		
 	}
 
 }
